@@ -62,7 +62,7 @@ This View is for stakeholders and upper management to gain quick Insights such a
 
 ## LIVE Dashboard Link PowerBI Service:
 
-[LINK](https://app.powerbi.com/view?r=eyJrIjoiNWE0MDJhNmUtZGIwOS00YjgzLThlNTEtYTJmNDYyMjJiODJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNWE0MDJhNmUtZGIwOS00YjgzLThlNTEtYTJmNDYyMjJiODJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # 💡𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 :-
