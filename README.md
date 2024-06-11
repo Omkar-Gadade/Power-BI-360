@@ -60,6 +60,10 @@ This View is for stakeholders and upper management to gain quick Insights such a
 
 ⏺Personal gateway to set up auto-refresh of data
 
+## LIVE Dashboard Link PowerBI Service:
+
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiNWE0MDJhNmUtZGIwOS00YjgzLThlNTEtYTJmNDYyMjJiODJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 # 💡𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 :-
 1. Amazon India customer is contributing maximum towards Revenue but Profit generated is less.
